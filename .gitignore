@@ -1,0 +1,4 @@
+figs/
+outputs/
+SLURM_OUT/
+.pytest_cache
